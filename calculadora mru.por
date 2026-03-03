@@ -2,11 +2,12 @@ programa
 {
 	
 	funcao inicio()
+	
 	{
 	inteiro opcao
 	real distancia 
-     real tempo 
-     real velocidade 
+    real tempo 
+    real velocidade 
 
 		escreva("===== CALCULADORA MRU =====\n")
 		escreva("1 - Calcular velocidade\n")
